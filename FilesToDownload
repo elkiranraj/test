@@ -1,0 +1,7 @@
+Tomcat7:
+website: https://tomcat.apache.org/download-70.cgi
+download URL: http://mirrors.estointernet.in/apache/tomcat/tomcat-7/v7.0.93/bin/apache-tomcat-7.0.93-windows-x64.zip
+
+Drools workbench:
+website: https://www.drools.org/download/download.html
+download URL: https://download.jboss.org/drools/release/6.5.0.Final/kie-drools-wb-6.5.0.Final-tomcat7.war
